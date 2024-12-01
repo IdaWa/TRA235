@@ -6,7 +6,7 @@ from llama_index.core.indices.vector_store.base import VectorStoreIndex
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from langchain_ollama.llms import OllamaLLM
 import os
-
+import re
 # Function to extract text from a PDF file
 def extract_text_from_pdf(pdf_path):
     doc = fitz.open(pdf_path)
@@ -26,18 +26,31 @@ llm = OllamaLLM(model="llama2")
 ####### Path to folder here!!!!!!################################################
 pdf_folder = r'C:\Users\ida\OneDrive\Skrivbord\TRA235\Docs_1'
 documents = []
+def preprocess_text(text):
+    # Remove extra whitespace
+    text = re.sub(r'\s+', ' ', text)
+    # Optional: remove headers/footers based on patterns
+    # Example: text = re.sub(r'Page \d+', '', text)
+    return text.strip()
 
-# Read and process PDF documents
+def split_into_chunks(text, chunk_size=1000, overlap=200):
+    chunks = []
+    for i in range(0, len(text), chunk_size - overlap):
+        chunks.append(text[i:i + chunk_size])
+    return chunks
+
 for filename in os.listdir(pdf_folder):
     if filename.endswith(".pdf"):
         pdf_path = os.path.join(pdf_folder, filename)
-        pdf_text = extract_text_from_pdf(pdf_path)
-        document = Document(
-            text=pdf_text,
-            id=filename,
-            title=filename
-        )
-        documents.append(document)
+        pdf_text = preprocess_text(extract_text_from_pdf(pdf_path))
+        chunks = split_into_chunks(pdf_text)
+        for i, chunk in enumerate(chunks):
+            document = Document(
+                text=chunk,
+                id=f"{filename}_chunk_{i}",
+                title=f"{filename} - Part {i+1}"
+            )
+            documents.append(document)
 
 # Debug: Check documents
 st.write(f"Total Documents Indexed: {len(documents)}")
