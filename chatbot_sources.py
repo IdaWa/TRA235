@@ -24,7 +24,7 @@ llm = OllamaLLM(model="llama2")
 
 # LlamaIndex Setup
 ####### Path to folder here!!!!!!################################################
-pdf_folder = r'C:\Users\ida\OneDrive\Skrivbord\TRA235\Docs_1'
+pdf_folder = r'C:\Users\ida\OneDrive\Skrivbord\TRA235\Docs_pdfs'
 documents = []
 def preprocess_text(text):
     # Remove extra whitespace

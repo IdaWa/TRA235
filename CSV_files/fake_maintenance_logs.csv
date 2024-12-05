@@ -1,0 +1,101 @@
+Date,Symptom,Possible Cause,Corrective Action Taken
+2024-11-01,The door does not open fully,Motor pulley loose,Replaced the damaged rollers with new ones
+2024-11-05,The door does not open fully,Electrical failure,Checked the motor pulley and tightened it with red Loctite to ensure secure attachment
+2024-11-11,The door does not close fully,Motor pulley loose,Removed obstruction from the track and realigned the door
+2024-11-10,The door makes a loud noise when opening or closing,Low motor power,Replaced the faulty electrical connector leading to the motor
+2024-11-13,The door is misaligned,Low motor power,Replaced the faulty electrical connector leading to the motor
+2024-11-06,The door does not open fully,Faulty sensor,Replaced the faulty electrical connector leading to the motor
+2024-11-13,The door does not close fully,Electrical failure,Replaced the faulty electrical connector leading to the motor
+2024-11-29,The door stops halfway through the cycle,Track obstruction,Cleaned the rollers and removed all debris blocking the door movement
+2024-11-09,The door makes a loud noise when opening or closing,Motor misalignment,Cleaned the rollers and removed all debris blocking the door movement
+2024-12-07,The door skips when opening or closing,Motor pulley loose,Cleaned the rollers and removed all debris blocking the door movement
+2024-12-01,The door skips when opening or closing,Low motor power,Cleaned the rollers and removed all debris blocking the door movement
+2024-11-12,The door does not close fully,Chip build-up in the rollers,Removed obstruction from the track and realigned the door
+2024-12-07,The door does not open fully,Faulty sensor,Checked the motor pulley and tightened it with red Loctite to ensure secure attachment
+2024-11-27,The door skips when opening or closing,Chip build-up in the rollers,Checked the motor pulley and tightened it with red Loctite to ensure secure attachment
+2024-12-27,The door is misaligned,Worn-out rollers,Realigned the motor and checked the door track for obstructions
+2024-12-16,The door makes a loud noise when opening or closing,Faulty sensor,Replaced the damaged rollers with new ones
+2025-01-20,The door skips when opening or closing,Electrical failure,Replaced the damaged rollers with new ones
+2025-01-25,The door skips when opening or closing,Track obstruction,Removed obstruction from the track and realigned the door
+2024-12-07,The door does not close fully,Low motor power,Realigned the motor and checked the door track for obstructions
+2024-12-28,The door makes a loud noise when opening or closing,Chip build-up in the rollers,Checked the motor and found it was underpowered; adjusted settings for optimal performance
+2024-12-11,The door does not open fully,Motor misalignment,Removed obstruction from the track and realigned the door
+2024-11-22,The door skips when opening or closing,Faulty sensor,Removed obstruction from the track and realigned the door
+2024-11-23,The door is misaligned,Motor misalignment,Removed obstruction from the track and realigned the door
+2025-02-24,The door stops halfway through the cycle,Faulty sensor,Checked the motor and found it was underpowered; adjusted settings for optimal performance
+2025-03-01,The door opens slowly,Faulty sensor,Checked the motor pulley and tightened it with red Loctite to ensure secure attachment
+2025-02-09,The door does not open fully,Chip build-up in the rollers,Replaced the damaged rollers with new ones
+2024-12-23,The door is misaligned,Track obstruction,Checked the motor and found it was underpowered; adjusted settings for optimal performance
+2025-03-16,The door is misaligned,Chip build-up in the rollers,Replaced the faulty sensor with a new one
+2025-01-24,The door is misaligned,Worn-out rollers,Removed obstruction from the track and realigned the door
+2024-12-29,The door sensor is not detecting the door movement,Chip build-up in the rollers,Replaced the faulty sensor with a new one
+2024-12-31,The door does not close fully,Electrical failure,Replaced the damaged rollers with new ones
+2025-01-02,The door opens slowly,Electrical failure,Replaced the faulty electrical connector leading to the motor
+2025-01-04,The door sensor is not detecting the door movement,Faulty sensor,Cleaned the rollers and removed all debris blocking the door movement
+2025-04-15,The door does not close fully,Track obstruction,Replaced the faulty electrical connector leading to the motor
+2024-12-05,The door makes a loud noise when opening or closing,Motor pulley loose,Realigned the motor and checked the door track for obstructions
+2025-02-14,The door sensor is not detecting the door movement,Low motor power,Replaced the faulty electrical connector leading to the motor
+2025-04-30,The door makes a loud noise when opening or closing,Motor misalignment,Checked the motor pulley and tightened it with red Loctite to ensure secure attachment
+2024-12-08,The door skips when opening or closing,Track obstruction,Checked the motor and found it was underpowered; adjusted settings for optimal performance
+2025-01-16,The door sensor is not detecting the door movement,Chip build-up in the rollers,Realigned the motor and checked the door track for obstructions
+2025-01-18,The door skips when opening or closing,Electrical failure,Replaced the faulty electrical connector leading to the motor
+2025-01-20,The door does not open fully,Low motor power,Checked the motor and found it was underpowered; adjusted settings for optimal performance
+2024-12-12,The door is misaligned,Electrical failure,Replaced the damaged rollers with new ones
+2025-05-30,The door skips when opening or closing,Motor misalignment,Realigned the motor and checked the door track for obstructions
+2025-06-04,The door skips when opening or closing,Chip build-up in the rollers,Cleaned the rollers and removed all debris blocking the door movement
+2025-01-28,The door sensor is not detecting the door movement,Chip build-up in the rollers,Removed obstruction from the track and realigned the door
+2025-06-14,The door does not open fully,Motor pulley loose,Removed obstruction from the track and realigned the door
+2025-05-04,The door opens slowly,Faulty sensor,Cleaned the rollers and removed all debris blocking the door movement
+2024-12-18,The door is misaligned,Electrical failure,Realigned the motor and checked the door track for obstructions
+2024-12-19,The door does not open fully,Low motor power,Replaced the faulty electrical connector leading to the motor
+2024-12-20,The door is misaligned,Worn-out rollers,Realigned the motor and checked the door track for obstructions
+2025-03-31,The door makes a loud noise when opening or closing,Low motor power,Realigned the motor and checked the door track for obstructions
+2025-02-11,The door stops halfway through the cycle,Worn-out rollers,Checked the motor and found it was underpowered; adjusted settings for optimal performance
+2025-04-06,The door makes a loud noise when opening or closing,Motor pulley loose,Replaced the faulty electrical connector leading to the motor
+2024-12-24,The door skips when opening or closing,Faulty sensor,Replaced the faulty sensor with a new one
+2025-04-12,The door opens slowly,Chip build-up in the rollers,Realigned the motor and checked the door track for obstructions
+2025-02-19,The door stops halfway through the cycle,Chip build-up in the rollers,Cleaned the rollers and removed all debris blocking the door movement
+2025-02-21,The door skips when opening or closing,Track obstruction,Cleaned the rollers and removed all debris blocking the door movement
+2025-04-21,The door stops halfway through the cycle,Electrical failure,Replaced the faulty electrical connector leading to the motor
+2025-08-18,The door makes a loud noise when opening or closing,Motor pulley loose,Checked the motor pulley and tightened it with red Loctite to ensure secure attachment
+2025-06-25,The door skips when opening or closing,Electrical failure,Cleaned the rollers and removed all debris blocking the door movement
+2025-04-30,The door opens slowly,Faulty sensor,Cleaned the rollers and removed all debris blocking the door movement
+2025-05-03,The door does not close fully,Motor pulley loose,Realigned the motor and checked the door track for obstructions
+2025-07-07,The door does not close fully,Motor pulley loose,Replaced the faulty electrical connector leading to the motor
+2025-05-09,The door stops halfway through the cycle,Motor pulley loose,Checked the motor and found it was underpowered; adjusted settings for optimal performance
+2025-01-04,The door opens slowly,Electrical failure,Cleaned the rollers and removed all debris blocking the door movement
+2025-01-05,The door makes a loud noise when opening or closing,Track obstruction,Replaced the faulty electrical connector leading to the motor
+2025-01-06,The door skips when opening or closing,Faulty sensor,Realigned the motor and checked the door track for obstructions
+2025-05-21,The door is misaligned,Worn-out rollers,Removed obstruction from the track and realigned the door
+2025-10-07,The door sensor is not detecting the door movement,Low motor power,Replaced the faulty sensor with a new one
+2025-03-19,The door opens slowly,Faulty sensor,Replaced the faulty electrical connector leading to the motor
+2025-08-08,The door is misaligned,Motor pulley loose,Replaced the faulty sensor with a new one
+2025-03-23,The door does not close fully,Faulty sensor,Replaced the faulty sensor with a new one
+2025-10-27,The door opens slowly,Electrical failure,Cleaned the rollers and removed all debris blocking the door movement
+2025-01-13,The door is misaligned,Low motor power,Cleaned the rollers and removed all debris blocking the door movement
+2025-11-06,The door does not open fully,Chip build-up in the rollers,Cleaned the rollers and removed all debris blocking the door movement
+2025-08-28,The door is misaligned,Worn-out rollers,Realigned the motor and checked the door track for obstructions
+2025-11-16,The door skips when opening or closing,Motor pulley loose,Replaced the faulty sensor with a new one
+2025-06-20,The door makes a loud noise when opening or closing,Track obstruction,Checked the motor pulley and tightened it with red Loctite to ensure secure attachment
+2025-11-26,The door opens slowly,Chip build-up in the rollers,Removed obstruction from the track and realigned the door
+2025-09-13,The door sensor is not detecting the door movement,Faulty sensor,Removed obstruction from the track and realigned the door
+2025-04-10,The door skips when opening or closing,Electrical failure,Replaced the damaged rollers with new ones
+2025-04-12,The door opens slowly,Motor misalignment,Replaced the damaged rollers with new ones
+2025-09-25,The door opens slowly,Chip build-up in the rollers,Replaced the faulty electrical connector leading to the motor
+2025-07-08,The door is misaligned,Chip build-up in the rollers,Removed obstruction from the track and realigned the door
+2025-04-18,The door does not close fully,Chip build-up in the rollers,Replaced the damaged rollers with new ones
+2025-07-14,The door stops halfway through the cycle,Faulty sensor,Replaced the faulty sensor with a new one
+2025-04-22,The door skips when opening or closing,Worn-out rollers,Replaced the faulty electrical connector leading to the motor
+2025-10-15,The door opens slowly,Motor pulley loose,Realigned the motor and checked the door track for obstructions
+2025-04-26,The door sensor is not detecting the door movement,Motor pulley loose,Realigned the motor and checked the door track for obstructions
+2025-10-23,The door is misaligned,Chip build-up in the rollers,Realigned the motor and checked the door track for obstructions
+2026-01-25,The door makes a loud noise when opening or closing,Worn-out rollers,Checked the motor and found it was underpowered; adjusted settings for optimal performance
+2025-08-01,The door skips when opening or closing,Worn-out rollers,Cleaned the rollers and removed all debris blocking the door movement
+2025-11-04,The door does not close fully,Low motor power,Realigned the motor and checked the door track for obstructions
+2026-02-09,The door does not close fully,Low motor power,Realigned the motor and checked the door track for obstructions
+2026-02-14,The door sensor is not detecting the door movement,Faulty sensor,Realigned the motor and checked the door track for obstructions
+2025-02-04,The door makes a loud noise when opening or closing,Worn-out rollers,Replaced the damaged rollers with new ones
+2025-02-05,The door opens slowly,Electrical failure,Removed obstruction from the track and realigned the door
+2025-02-06,The door does not open fully,Motor misalignment,Removed obstruction from the track and realigned the door
+2026-03-06,The door is misaligned,Motor pulley loose,Cleaned the rollers and removed all debris blocking the door movement
+2026-03-11,The door makes a loud noise when opening or closing,Chip build-up in the rollers,Replaced the faulty sensor with a new one
