@@ -1,0 +1,58 @@
+--- Page 1 ---
+5 - BF - Maintenance
+Haas Bar
+Feeder -
+Service
+Manual
+1 - BF -
+Introduction
+2 - BF -
+Installation
+3 - BF - Operation
+4 - BF - Push Rod
+and Drive Belt
+5 - BF -
+Maintenance
+6 - BF -
+Troubleshooting
+5.1 HAAS BAR FEEDER - MAINTENANCE
+5.1 HAAS BAR FEEDER - MAINTENANCE
+Haas Bar Feeder Maintenance Schedule
+The Haas Bar Feeder requires little regular maintenance for optimal operation. This page shows
+the recommended maintenance intervals.
+Maintenance
+Warning: Press [POWER OFF] on the lathe before you do maintenance tasks.
+The Haas Bar Feeder requires little regular maintenance for optimal operation.
+MAINTENANCE ITEM
+INTERVAL
+Clean the transfer tray.
+As needed.
+Apply grease to the push rod and bushing. Manually move the push
+rod back and forth to spread the grease and check for binding.
+Monthly or when the
+push rod it dry.
+Align the grease fitting in the linear guide truck with the hole in the
+enclosure and apply (2) strokes from a grease gun. See section
+below.
+Monthly
+Check for wear or debris in the spindle liner and replace it if
+necessary.
+Every 6 Months
+Bar Feeder - Align Grease Fitting
+
+Warning: Press [POWER OFF] on
+the lathe before you do maintenance
+tasks.
+Approximately once per month,
+align the grease fitting in the
+linear guide truck with the
+hole [1] in the enclosure and
+apply two strokes from a grease
+gun.
+
+Feedback
+2024-12-07 16:06
+Bar Feeder - Maintenance - Haas Service Manual
+https://www.haascnc.com/service/online-manuals/haas-bar-feeder---service-manual/bf---maintenance.html
+1/1
+
